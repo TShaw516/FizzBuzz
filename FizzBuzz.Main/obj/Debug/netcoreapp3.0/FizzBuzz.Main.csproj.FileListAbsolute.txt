@@ -1,0 +1,14 @@
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.AssemblyInfo.cs
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.exe
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.deps.json
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.runtimeconfig.json
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.dll
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Main.pdb
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Class.dll
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\bin\Debug\netcoreapp3.0\FizzBuzz.Class.pdb
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.csproj.CopyComplete
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.dll
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz.Main\obj\Debug\netcoreapp3.0\FizzBuzz.Main.pdb
