@@ -68,5 +68,19 @@ namespace FizzBuzz.Tests
             var result = fizzBuzz.Get(30);
             Assert.Equal("Fizzbuzz", result);
         }
+
+        [Fact]
+        public void Check_Output_Of_For_Loop_Main()
+        {
+            //arrange
+            //test if the for loop produces a 3 from main program
+            
+            //act
+            //capture the output to the result
+            
+            //assert
+
+            Assert.Contains(3, result);
+        }
     }
 }
