@@ -1,0 +1,8 @@
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\bin\Release\netcoreapp3.0\FizzBuzz.Class.deps.json
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\bin\Release\netcoreapp3.0\FizzBuzz.Class.dll
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\bin\Release\netcoreapp3.0\FizzBuzz.Class.pdb
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Release\netcoreapp3.0\FizzBuzz.Class.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Release\netcoreapp3.0\FizzBuzz.Class.AssemblyInfo.cs
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Release\netcoreapp3.0\FizzBuzz.Class.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Release\netcoreapp3.0\FizzBuzz.Class.dll
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Release\netcoreapp3.0\FizzBuzz.Class.pdb

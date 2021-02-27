@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVaKf0LojjupbmTyk8TWS90Z6WDtwniAAbITSre47KmN/XMTl+9CrkSY/b+Efq8AEttfOtz+pm6Wjm7zZYH1zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "FizzBuzz.Main/1.0.0": {
+        "dependencies": {
+          "FizzBuzz.Class": "1.0.0"
+        },
+        "runtime": {
+          "FizzBuzz.Main.dll": {}
+        }
+      },
+      "FizzBuzz.Class/1.0.0": {
+        "runtime": {
+          "FizzBuzz.Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzz.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzz.Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

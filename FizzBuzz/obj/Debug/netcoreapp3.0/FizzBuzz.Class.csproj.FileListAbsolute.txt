@@ -6,3 +6,4 @@ C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.Cla
 C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.Class.pdb
 C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.Class.dll
 C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.Class.pdb
+C:\Users\Tom\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.Class.csproj.CoreCompileInputs.cache

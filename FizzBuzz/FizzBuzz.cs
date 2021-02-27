@@ -10,15 +10,15 @@ namespace FizzBuzz
         {
             string count = string.Empty;
             
-            if (IsMultipleOfFifteen(num))
+            if (FizzBuzzCheck(num, 15))
             {
                 return "Fizzbuzz";
             }
-            if (IsMultipleOfThree(num))
+            if (FizzBuzzCheck(num, 3))
             {
                 return "Fizz";
             }
-            if (IsMultipleOFFive(num))
+            if (FizzBuzzCheck(num, 5))
             {
                 return "Buzz";
             }
@@ -27,19 +27,9 @@ namespace FizzBuzz
             return count;
         }
 
-        public bool IsMultipleOfThree(int numberToCheck)
+        public bool FizzBuzzCheck(int numberToCheck, int numberDivisor)
         {
-            return numberToCheck % 3 == 0;
-        }
-
-        public bool IsMultipleOFFive(int numberToCheck)
-        {
-            return numberToCheck % 5 == 0;
-        }
-
-        public bool IsMultipleOfFifteen(int numberToCheck)
-        {
-            return numberToCheck % 15 == 0;
+            return numberToCheck % numberDivisor == 0;
         }
     }
 }
